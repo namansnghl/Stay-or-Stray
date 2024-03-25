@@ -1,6 +1,8 @@
 # Stay or Stray: Predict Course Dropout
 Use data to predict who is bailing on the course.
 
+![Description of the image](https://github.com/namansnghl/Stay-or-Stray/blob/main/media/cover.png)
+
 Source: Private kaggle competition
 ### Overview
 Welcome to "Stay or Stray: Predicting Online Course Dropout" - where data meets education in a battle of predictive prowess! In this Kaggle competition, participants are tasked with harnessing the power of early interactions and activity patterns within online course platforms to develop a cutting-edge predictive model.
